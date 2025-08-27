@@ -10,7 +10,6 @@ This project allows administrators to manage student details efficiently — inc
 - ✏️ Update existing student information  
 - ❌ Delete student records  
 - 📖 View all students in a structured format  
-- 🔍 Search students by ID, name, or other fields  
 - 🎨 Simple and responsive web interface  
 
 ---
