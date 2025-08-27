@@ -73,7 +73,8 @@ Access the application at:
 
 http://localhost:8080/student-management-system
 
-📸 Screenshots 
+```
+## 📸 Screenshots 
 <img width="1359" height="752" alt="image" src="https://github.com/user-attachments/assets/63e1a051-63c4-4214-93e6-60708d1a2565" />
 <img width="1366" height="764" alt="image" src="https://github.com/user-attachments/assets/ede79838-a3c8-4fcb-9551-57ac914c88cf" />
 <img width="1366" height="766" alt="image" src="https://github.com/user-attachments/assets/9a5448d5-d186-41e9-84aa-479c57e3f100" />
