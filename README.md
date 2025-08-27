@@ -24,10 +24,10 @@ This project allows administrators to manage student details efficiently — inc
 
 ## 📂 Project Structure
 Student-Management-System/
-  │── src/main/java/ # Java source files (Servlets, JDBC, Models)
-  │── src/main/webapp/ # JSP/HTML, CSS, JavaScript files
-  │── pom.xml # Maven configuration
-  │── README.md # Project documentation
+  │── src/main/java/ # Java source files (Servlets, JDBC, Models)                                                                         
+  │── src/main/webapp/ # JSP/HTML, CSS, JavaScript files                                                                                  
+  │── pom.xml # Maven configuration                                                                                                       
+  │── README.md # Project documentation                                                                                                   
 
 
 ---
